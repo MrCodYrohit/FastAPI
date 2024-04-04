@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[449],{3691:e=>{e.exports=JSON.parse('{"title":"Default","description":"/api/openapi.json","slug":"/category/default","permalink":"/category/default","navigation":{"previous":{"title":"Schemas","permalink":"/"},"next":{"title":"Make Toingg","permalink":"/Default/Make Toingg"}}}')}}]);
